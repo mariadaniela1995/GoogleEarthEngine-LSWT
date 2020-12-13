@@ -1,1 +1,1 @@
-# GoogleEarthEngine-LSWT
+# Trabajo de publicación
